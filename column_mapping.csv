@@ -1,0 +1,9 @@
+Type,FileName,,,,,,,,,,,,,,,,,,
+ChangedName,caracteristiques-2019_01,accidentID,day,month,year,hr_min,lighting,deptID,cityID,location,intersection,weather,col_type,address,lat,long,,,
+Original,caracteristiques-2019,Num_Acc,jour,mois,an,hrmn,lum,dep,com,agg,int,atm,col,adr,lat,long,,,
+ChangedName,usagers-2019_01, accidentID ,vehicleID,num_veh,place,userCat,severity,driver_gender,driver_year_birth,reason_for_travel,safety1,safety2,safety3,ped_location,ped_action,ped_accompanied,,,
+Original,usagers-2019,Num_Acc,id_vehicule,num_veh,place,catu,grav,sexe,an_nais,trajet,secu1,secu2,secu3,locp,actp,etatp,,,
+ChangedName,vehicules-2019_01,accidentID,vehicleID,vehicleNo,flow_direction,vehicle_cat,obs_fixed,obs_movable,contact_point,manv,motor,occupants,,,,,,,
+Original,vehicules-2019,Num_Acc,id_vehicule,num_veh,senc,catv,obs,obsm,choc,manv,motor,occutc,,,,,,,
+ChangedName,lieux-2019_01,accidentID,road_cat,route_no,road_index,road_letter,lane_scheme,number_lanes,reserved_lane,gradient,pr,pr1,road_shape,lartpc,roadwidth,road_condition,infra,situation,max_speed
+Original,lieux-2019,Num_Acc,catr,voie,v1,v2,circ,nbv,vosp,prof,pr,pr1,plan,lartpc,larrout,surf,infra,situ,vma
